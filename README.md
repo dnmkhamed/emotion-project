@@ -16,7 +16,7 @@ Windows, macOS және Linux-та жұмыс істейді.
 ### 1. Репозиторийді жүктеу
 
 ```bash
-git clone https://github.com/<USERNAME>/emotion-project.git
+git clone https://github.com/dnmkhamed/emotion-project.git
 cd emotion-project
 ```
 
