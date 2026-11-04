@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Датасет (үлкен, Kaggle-ден жүктеледі)
+data/
+
+# Жеке файлдар
+highscore.json
+src/screenshot_*.png
+screenshot_*.png
+
+# Жүйелік
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
